@@ -1,11 +1,16 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body {
-  background: #EDF2FF;
-  width: 1292px;
-  height: 420px;
+.container {
+  border: 7px red solid;
+  text-align: center;
+  width: 300px;
+  margin: 60px auto;
+}
+
+img {
+  width: 100%;
 }
